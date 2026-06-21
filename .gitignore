@@ -1,0 +1,6 @@
+build/
+*.bat
+*.sh
+*.zip
+*.json
+*.vpk
